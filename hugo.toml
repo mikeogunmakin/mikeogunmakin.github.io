@@ -1,0 +1,64 @@
+baseURL = 'https://mikeogunmakin.github.io/'
+languageCode = 'en-us'
+title = 'Mike Ogunmakin'
+theme = 'PaperMod'
+
+enableRobotsTXT = true
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[minify]
+  disableXML = true
+
+[params]
+  env = 'production'
+  title = 'Mike Ogunmakin'
+  description = 'Projects I have built, articles I have written, and ideas I am exploring.'
+  keywords = ['blog', 'portfolio', 'articles']
+  author = 'Mike Ogunmakin'
+  defaultTheme = 'auto'
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = false
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  hideFooter = false
+
+  [params.homeInfoParams]
+    Title = "Hi there \U0001F44B"
+    Content = "Welcome to my personal site, where I share articles and projects I'm working on."
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/mikeogunmakin'
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
+
+[[menu.main]]
+  identifier = 'archive'
+  name = 'Articles'
+  url = '/posts/'
+  weight = 10
+
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+  weight = 20
+
+[[menu.main]]
+  identifier = 'search'
+  name = 'Search'
+  url = '/search/'
+  weight = 30
+
+[markup.highlight]
+  noClasses = false
