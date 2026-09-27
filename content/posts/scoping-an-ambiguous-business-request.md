@@ -9,13 +9,13 @@ tags:
 title: Can We Scope Ambiguous Business Requests?
 ---
 
-Most analytics and machine learning projects start with a problem. But
-in my experience working as a data analyst and data scientist, the
-problem we are given is rarely as clear as we would like.
+Most analytics and machine learning projects start with a problem. 
+But in my experience, first as a data analyst and now as a data scientist, 
+the problem we’re given is rarely as clear as we’d like it to be.
 
 Over the course of my career, I've found that some of the best analysts
-and data scientists aren't necessarily the people who jump into the data
-fastest. They're the people who are good at **scoping the problem
+and data scientists aren't necessarily the people who are strong technically. 
+They're the people who are good at **scoping the problem
 first**.
 
 I've experimented with several approaches to doing this, including
