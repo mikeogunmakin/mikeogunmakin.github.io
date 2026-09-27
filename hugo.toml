@@ -43,6 +43,11 @@ enableEmoji = true
     name = 'linkedin'
     url = 'https://www.linkedin.com/in/michael-og/'
 
+  [[params.socialIcons]]
+    name = 'payhip'
+    title = 'Courses'
+    url = 'https://payhip.com/mikeogunmakin'
+
 [outputs]
   home = ['HTML', 'RSS', 'JSON']
 
