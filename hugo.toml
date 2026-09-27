@@ -33,7 +33,7 @@ enableEmoji = true
 
   [params.homeInfoParams]
     Title = "Hi there \U0001F44B"
-    Content = "Welcome to my personal site, where I share articles and projects I'm working on."
+    Content = "Data Scientist researching, building, and deploying machine learning and AI systems for personalization, recommendations, and real-time user experiences. Interested in personalization, product and growth data science, and quantitative finance."
 
   [[params.socialIcons]]
     name = 'github'
