@@ -1,6 +1,6 @@
 baseURL = 'https://mikeogunmakin.github.io/'
 languageCode = 'en-us'
-title = 'Mike Ogunmakin'
+title = 'Michael O.'
 theme = 'PaperMod'
 
 enableRobotsTXT = true
@@ -14,10 +14,10 @@ enableEmoji = true
 
 [params]
   env = 'production'
-  title = 'Mike Ogunmakin'
+  title = 'Michael O.'
   description = 'Projects I have built, articles I have written, and ideas I am exploring.'
   keywords = ['blog', 'portfolio', 'articles']
-  author = 'Mike Ogunmakin'
+  author = 'Michael O.'
   defaultTheme = 'auto'
   disableThemeToggle = false
   ShowReadingTime = true
