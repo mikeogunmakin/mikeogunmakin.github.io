@@ -6,7 +6,7 @@ summary: A practical 12-step framework for turning ambiguous business
 tags:
 - project scoping
 - business understanding
-title: Can We Scope Ambiguous Business Problem?
+title: Can We Scope Ambiguous Business Problems?
 ---
 
 Most analytics and machine learning projects start with a problem. 
