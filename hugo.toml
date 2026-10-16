@@ -53,22 +53,22 @@ enableEmoji = true
   home = ['HTML', 'RSS', 'JSON']
 
 [[menu.main]]
+  identifier = 'info'
+  name = 'Info'
+  url = '/info/'
+  weight = 10
+
+[[menu.main]]
   identifier = 'mresearch'
   name = 'mResearch'
   title = 'microResearch'
   url = '/mresearch/'
-  weight = 10
+  weight = 20
 
 [[menu.main]]
   identifier = 'projects'
   name = 'Projects'
   url = '/projects/'
-  weight = 20
-
-[[menu.main]]
-  identifier = 'info'
-  name = 'Info'
-  url = '/info/'
   weight = 30
 
 [[menu.main]]
