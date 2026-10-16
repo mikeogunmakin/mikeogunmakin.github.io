@@ -11,10 +11,10 @@ cd mikeogunmakin.github.io
 hugo server -D
 ```
 
-New articles go in `content/posts/`:
+New articles go in `content/mresearch/`:
 
 ```sh
-hugo new posts/my-article.md
+hugo new mresearch/my-article.md
 ```
 
 ## Deployment

@@ -18,6 +18,7 @@ enableEmoji = true
   description = 'Projects I have built, articles I have written, and ideas I am exploring.'
   keywords = ['blog', 'portfolio', 'articles']
   author = 'Michael O.'
+  mainSections = ['mresearch']
   defaultTheme = 'auto'
   disableThemeToggle = false
   ShowReadingTime = true
@@ -52,22 +53,29 @@ enableEmoji = true
   home = ['HTML', 'RSS', 'JSON']
 
 [[menu.main]]
-  identifier = 'archive'
-  name = 'Articles'
-  url = '/posts/'
+  identifier = 'mresearch'
+  name = 'mResearch'
+  title = 'microResearch'
+  url = '/mresearch/'
   weight = 10
 
 [[menu.main]]
-  identifier = 'about'
-  name = 'About'
-  url = '/about/'
+  identifier = 'projects'
+  name = 'Projects'
+  url = '/projects/'
   weight = 20
+
+[[menu.main]]
+  identifier = 'info'
+  name = 'Info'
+  url = '/info/'
+  weight = 30
 
 [[menu.main]]
   identifier = 'search'
   name = 'Search'
   url = '/search/'
-  weight = 30
+  weight = 40
 
 [markup.highlight]
   noClasses = false
