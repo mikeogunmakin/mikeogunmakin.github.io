@@ -33,7 +33,8 @@ enableEmoji = true
   hideFooter = false
 
   [params.homeInfoParams]
-    Content = "Entrepreneur & Data Scientist\n\nThinking differently. Building things. Sharing unstructured thoughts, ideas, and research along the way."
+    Title = "Entrepreneur & Data Scientist"
+    Content = "Thinking differently. Building things. Sharing unstructured thoughts, ideas, and research along the way."
 
   [[params.socialIcons]]
     name = 'github'
