@@ -66,9 +66,10 @@ enableEmoji = true
   weight = 20
 
 [[menu.main]]
-  identifier = 'notes'
-  name = 'Notes'
-  url = '/notes/'
+  identifier = 'unotes'
+  name = 'uNotes'
+  title = 'unstructured Notes'
+  url = '/unotes/'
   weight = 30
 
 [[menu.main]]
