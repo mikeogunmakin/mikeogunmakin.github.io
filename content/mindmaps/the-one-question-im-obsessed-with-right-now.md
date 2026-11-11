@@ -1,10 +1,12 @@
 ---
 date: "2026-10-27T08:00:00+00:00"
+aliases:
+- /unotes/the-one-question-im-obsessed-with-right-now/
 draft: false
 summary: Is it possible to build a truly AI-native company, not just an
   AI-enabled one?
 tags:
-- unstructured notes
+- mind maps
 - ai
 title: The One Question I'm Obsessed With Right Now
 ---

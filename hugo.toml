@@ -18,7 +18,7 @@ enableEmoji = true
   description = 'Projects I have built, articles I have written, and ideas I am exploring.'
   keywords = ['blog', 'portfolio', 'articles']
   author = 'Michael O.'
-  mainSections = ['mresearch', 'unotes']
+  mainSections = ['mresearch', 'mindmaps']
   defaultTheme = 'auto'
   disableThemeToggle = false
   ShowReadingTime = true
@@ -66,10 +66,10 @@ enableEmoji = true
   weight = 20
 
 [[menu.main]]
-  identifier = 'unotes'
-  name = 'uNotes'
-  title = 'unstructured Notes'
-  url = '/unotes/'
+  identifier = 'mindmaps'
+  name = 'MindMaps'
+  title = 'MindMaps'
+  url = '/mindmaps/'
   weight = 30
 
 [[menu.main]]
