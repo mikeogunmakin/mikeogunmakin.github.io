@@ -17,4 +17,4 @@ This site is split into three sections:
 
 - **mResearch** — independent investigations and research.
 - **MindMaps** — mental models, maps and frameworks.
-- **Projects** — a list of projects, big and small, that I'm working on.
+- **Projects** — personal projects, big and small.

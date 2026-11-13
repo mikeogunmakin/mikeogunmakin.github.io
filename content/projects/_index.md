@@ -2,4 +2,4 @@
 title: "Projects"
 ---
 
-Projects I've built — coming soon.
+Personal projects, big and small.
