@@ -2,4 +2,4 @@
 title: "MindMaps"
 ---
 
-Short notes and ideas — coming soon.
+Mental models and frameworks.

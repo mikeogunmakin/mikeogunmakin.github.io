@@ -16,5 +16,5 @@ I'm interested in personalisation, product and growth data science, and quantita
 This site is split into three sections:
 
 - **mResearch** — quick research, along with code.
-- **MindMaps** — notes and unfiltered thoughts.
+- **MindMaps** — mental models and frameworks.
 - **Projects** — a list of projects, big and small, that I'm working on.
