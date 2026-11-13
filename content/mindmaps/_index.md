@@ -2,4 +2,4 @@
 title: "MindMaps"
 ---
 
-Mental models and frameworks.
+Mental models, maps and frameworks.
