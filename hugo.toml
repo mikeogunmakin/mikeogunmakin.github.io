@@ -33,7 +33,7 @@ enableEmoji = true
   hideFooter = false
 
   [params.homeInfoParams]
-    Title = "Data Scientist"
+    Title = "Hi, I'm a Data Scientist"
     Content = "Exploring quantitative development, systematic trading, and financial markets. Building tools and sharing research, ideas, and projects along the way."
 
   [[params.socialIcons]]
