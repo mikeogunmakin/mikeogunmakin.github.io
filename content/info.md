@@ -5,7 +5,7 @@ url: "/info/"
 summary: "info"
 ---
 
-Hi, I'm an entrepreneur and data scientist researching, building, and deploying machine learning and AI systems for personalisation and tailored user experiences.
+Hi, I'm a data scientist researching, building, and deploying machine learning and AI systems for personalisation and tailored user experiences.
 
 I also design A/B experiments and apply causal inference methods to measure impact and drive data-informed decisions.
 
