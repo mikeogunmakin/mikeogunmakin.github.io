@@ -15,6 +15,6 @@ I work in personalisation, product, and growth data science. I created this blog
 
 This site is split into three sections:
 
-- **mResearch** — independent investigations and research.
+- **mResearch** — learnings, investigations and research.
 - **MindMaps** — mental models, maps and frameworks.
 - **Projects** — personal projects, big and small.

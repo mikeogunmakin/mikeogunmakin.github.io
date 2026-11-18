@@ -2,4 +2,4 @@
 title: "microResearch"
 ---
 
-Independent investigations and research.
+Learnings, investigations and research.
