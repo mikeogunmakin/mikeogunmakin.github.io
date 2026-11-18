@@ -9,7 +9,7 @@ Hi, I'm a data scientist researching, building, and deploying machine learning a
 
 I also design A/B experiments and apply causal inference methods to measure impact and drive data-informed decisions.
 
-I'm interested in personalisation, product and growth data science, and quantitative finance.
+I work in personalisation, product, and growth data science. I created this blog to share my interest in quantitative development and explore ideas at the intersection of data, technology, and finance.
 
 ## What you'll find here
 
