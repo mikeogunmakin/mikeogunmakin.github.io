@@ -33,7 +33,7 @@ enableEmoji = true
   hideFooter = false
 
   [params.homeInfoParams]
-    Title = "Hi, I'm a Data Scientist"
+    Title = "Hi, I'm Michael"
     Content = "Exploring Quantitative Development and Applied Science. Building stuff and sharing research along the way."
 
   [[params.socialIcons]]
