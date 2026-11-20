@@ -34,7 +34,7 @@ enableEmoji = true
 
   [params.homeInfoParams]
     Title = "Hi, I'm a Data Scientist"
-    Content = "Exploring Quantitative Development and Applied Science. Building stuff and sharing ideas, research and learnings along the way."
+    Content = "Exploring Quantitative Development and Applied Science. Building stuff and sharing research along the way."
 
   [[params.socialIcons]]
     name = 'github'
